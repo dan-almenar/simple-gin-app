@@ -1,0 +1,8 @@
+# fully ignored
+
+# temporary ignored
+/controllers/*
+/models
+/views
+go*
+main.go
